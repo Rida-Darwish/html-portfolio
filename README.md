@@ -1,2 +1,2 @@
 # html-CV
-Creating a portfolio using html 5
+Creating a CV using html 5
